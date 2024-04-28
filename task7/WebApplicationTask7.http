@@ -1,0 +1,6 @@
+@WebApplicationTask7_HostAddress = http://localhost:5083
+
+GET {{WebApplicationTask7_HostAddress}}/GetMeTheString/
+Accept: application/json
+
+###
