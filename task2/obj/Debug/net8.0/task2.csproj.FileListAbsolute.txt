@@ -1,0 +1,14 @@
+C:\practice\task2\bin\Debug\net8.0\task2.exe
+C:\practice\task2\bin\Debug\net8.0\task2.deps.json
+C:\practice\task2\bin\Debug\net8.0\task2.runtimeconfig.json
+C:\practice\task2\bin\Debug\net8.0\task2.dll
+C:\practice\task2\bin\Debug\net8.0\task2.pdb
+C:\practice\task2\obj\Debug\net8.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\practice\task2\obj\Debug\net8.0\task2.AssemblyInfoInputs.cache
+C:\practice\task2\obj\Debug\net8.0\task2.AssemblyInfo.cs
+C:\practice\task2\obj\Debug\net8.0\task2.csproj.CoreCompileInputs.cache
+C:\practice\task2\obj\Debug\net8.0\task2.dll
+C:\practice\task2\obj\Debug\net8.0\refint\task2.dll
+C:\practice\task2\obj\Debug\net8.0\task2.pdb
+C:\practice\task2\obj\Debug\net8.0\task2.genruntimeconfig.cache
+C:\practice\task2\obj\Debug\net8.0\ref\task2.dll
