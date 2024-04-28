@@ -1,0 +1,14 @@
+C:\practice\task3\bin\Debug\net8.0\task3.exe
+C:\practice\task3\bin\Debug\net8.0\task3.deps.json
+C:\practice\task3\bin\Debug\net8.0\task3.runtimeconfig.json
+C:\practice\task3\bin\Debug\net8.0\task3.dll
+C:\practice\task3\bin\Debug\net8.0\task3.pdb
+C:\practice\task3\obj\Debug\net8.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\practice\task3\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
+C:\practice\task3\obj\Debug\net8.0\task3.AssemblyInfo.cs
+C:\practice\task3\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache
+C:\practice\task3\obj\Debug\net8.0\task3.dll
+C:\practice\task3\obj\Debug\net8.0\refint\task3.dll
+C:\practice\task3\obj\Debug\net8.0\task3.pdb
+C:\practice\task3\obj\Debug\net8.0\task3.genruntimeconfig.cache
+C:\practice\task3\obj\Debug\net8.0\ref\task3.dll
